@@ -1,0 +1,7 @@
+cd repository-name
+git checkout -b new-branch-name
+git add .
+git commit -m "描述你的更改"
+git push -u origin new-branch-name
+git push
+
